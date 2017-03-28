@@ -1,4 +1,4 @@
-package com.company.array;
+package com.dong.array;
 
 /**
  * author zhendong.Z

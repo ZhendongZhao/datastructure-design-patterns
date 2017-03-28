@@ -1,4 +1,4 @@
-package com.company.designmode;
+package com.dong.designmode;
 
 /**
  * author zhendong.Z
