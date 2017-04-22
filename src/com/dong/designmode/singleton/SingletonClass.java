@@ -1,4 +1,4 @@
-package com.dong.designmode;
+package com.dong.designmode.singleton;
 
 /**
  * author zhendong.Z
