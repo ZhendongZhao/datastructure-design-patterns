@@ -1,4 +1,4 @@
-package com.dong.designmode.singleton;
+package com.dong.design_patterns.singleton;
 
 /**
  * author zhendong.Z

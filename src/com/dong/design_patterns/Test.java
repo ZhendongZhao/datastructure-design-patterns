@@ -1,4 +1,4 @@
-package com.dong.designmode;
+package com.dong.design_patterns;
 
 /**
  * author zhendong.Z
